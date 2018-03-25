@@ -45,8 +45,7 @@ A local EC2 Instance Metadata server is started. This approach has the advantage
 [~/.aws/config example](../aws/config)
 
 # chrome profile
-to start a new chrome profile per role
-https://github.com/FernandoMiguel/kb/blob/master/Chrome/aws-vault.md
+[to start a new chrome/firefox profile per role](browsers.md)
 
 # Linux setup
 Connor wrote a guide for linux backend:
