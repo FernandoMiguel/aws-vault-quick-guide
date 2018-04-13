@@ -42,7 +42,7 @@ A local EC2 Instance Metadata server is started. This approach has the advantage
 
 
 # aws config
-[~/.aws/config example](../kb/blob/master/aws/config)
+[~/.aws/config example](https://github.com/FernandoMiguel/kb/blob/master/aws/config)
 
 # chrome profile
 [to start a new chrome/firefox profile per role](browsers.md)
