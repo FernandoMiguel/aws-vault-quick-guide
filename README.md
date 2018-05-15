@@ -42,10 +42,14 @@ A local EC2 Instance Metadata server is started. This approach has the advantage
 
 
 # aws config
-[~/.aws/config example](../aws/config)
+[~/.aws/config example](https://github.com/FernandoMiguel/kb/blob/master/aws/config)
 
 # chrome profile
 [to start a new chrome/firefox profile per role](browsers.md)
+
+Using aws-vault with multiple browser windows by Ben Bridts
+
+https://www.cloudar.be/uncategorized/using-aws-vault-with-mulitple-browser-windows/
 
 # Linux setup
 Connor wrote a guide for linux backend:
