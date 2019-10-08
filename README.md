@@ -47,9 +47,9 @@ A local EC2 Instance Metadata server is started. This approach has the advantage
 # Multiple roles in browsers
 [to start a new chrome/firefox profile per role](browsers.md)
 
-Using aws-vault with multiple Chrome windows by Ben Bridts
+[Using aws-vault with multiple Chrome windows by Ben Bridts](https://www.cloudar.be/awsblog/using-aws-vault-with-mulitple-browser-windows/)
 
-https://www.cloudar.be/uncategorized/using-aws-vault-with-mulitple-browser-windows/
+
 
 If you use Firefox check out Firefox Multi-account Containers. These allow custom sessions within a single firefox window - each container can be given a unique name, colour and icon. Sessions are isolated to containers, and tabs are colour coded to avoid accidentally using the wrong account. Install containers from the link below; then run `aws-vault login -s \<PROFILE\>` to produce a one-time URL, open a container tab and paste the URL in to the address bar.
 
